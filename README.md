@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Keerthika
 
-<!--
-**keerthikamithili-svg/keerthikamithili-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science with Cognitive Systems
 
-Here are some ideas to get you started:
+💻 Java | Python | HTML | CSS | JavaScript | MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Exploring AI and Cognitive Systems
+
+🚀 Building projects that solve real-world problems
+
+---
+
+## 🛠️ Tech Stack
+
+- ☕ Java
+- 🐍 Python
+- 🌐 HTML & CSS
+- ⚡ JavaScript
+- 🗄️ MySQL
+
+## 🚀 Projects
+
+- 🤖 **Jarvis Voice Assistant** — Voice-controlled laptop automation using Python
+- 📁 **SmartVault** — Student-focused document management system
+- 🔨 More projects coming soon...
+
+## 🌱 Currently Learning
+
+- Git & GitHub
+- Java
+- Python
+- Web Development
+- Artificial Intelligence
+
+## 🎯 Goals
+
+- Build real-world projects
+- Strengthen programming fundamentals
+- Develop problem-solving skills
+- Prepare for internships and placements
+
+---
+
+⭐ Thanks for visiting my profile!
