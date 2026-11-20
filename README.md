@@ -73,6 +73,7 @@ Tech: React JavaScript Supabase AI UI/UX
 Focus: Healthcare Technology • AI Integration • User Experience
 
 Status: 🚧 Project Development
+🔗 **Repository:** https://github.com/keerthikamithili-svg/MEDICURE-AI
  
 ---
 
