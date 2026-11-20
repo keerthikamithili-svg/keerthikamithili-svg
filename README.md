@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79b634f1-7283-4fea-b28d-26f29e4608f0" /><div align="center">
+<div align="center">
 
 # 👋 Hi, I'm Keerthika
 
