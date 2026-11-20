@@ -60,18 +60,20 @@
 🔹 Voice responses  
 
 ---
+🏥 MediCure AI – Smart Hospital Appointment Platform
+An AI-powered hospital appointment platform designed to simplify healthcare access through smart doctor discovery and appointment management.
 
-### 📁 SmartVault
+Tech: React JavaScript Supabase AI UI/UX
+- 🔍 Search and discover doctors by clinical speciality.
+- 📅 Book and manage doctor appointments.
+- 🕒 Check doctor availability.
+- 📋 View appointment history.
+- ❌ Cancel appointments.
+- 💳 Manage online and offline billing.
+Focus: Healthcare Technology • AI Integration • User Experience
 
-> A student-focused document management system designed to organize and manage academic documents.
-
-**Tech:** `HTML` `CSS` `JavaScript` `MySQL`
-
-🔹 Student document organization  
-🔹 Easy document management  
-🔹 Academic-focused design  
-🔹 Database integration  
-
+Status: 🚧 Project Development
+ 
 ---
 
 ### 🌱 More Projects Coming Soon...
