@@ -17,7 +17,7 @@
 🌐 Web Development &nbsp; • &nbsp;
 🗄️ MySQL &nbsp; • &nbsp;
 🤖 AI &nbsp; • &nbsp;
-⚙️ Automation
+
 
 </div>
 
